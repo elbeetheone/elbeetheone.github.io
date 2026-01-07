@@ -1,2 +1,2 @@
 # elbeetheone.github.io
-My Personal Websitr
+My Personal Website
